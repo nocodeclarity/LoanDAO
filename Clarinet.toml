@@ -1,10 +1,10 @@
 [project]
 name = 'loandao'
 description = ''
-authors = [NoCodeClarity]
+authors = []
 telemetry = true
 cache_dir = './.cache'
-requirements = [Change the World]
+requirements = []
 [contracts.loandao]
 path = 'contracts/loandao.clar'
 clarity_version = 1
