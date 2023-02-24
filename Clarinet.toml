@@ -1,7 +1,7 @@
 [project]
 name = 'loandao'
 description = ''
-authors = [NoCodeClarity, Inc.]
+authors = [NoCodeClarity]
 telemetry = true
 cache_dir = './.cache'
 requirements = [Change the World]
