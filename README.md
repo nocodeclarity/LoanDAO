@@ -19,6 +19,6 @@ In the world of decentralized finance, the ability for startups and projects to 
 
 + The contract includes DAO membership management functions, such as adding and removing members and calculating the DAO's total interest earned.
 
-Overall, this smart contract enables DAOs to provide loans to startups with the security of collateral and regular repayments, while also allowing DAO members to earn interest on their investment. It is important to note that LoanDAO has not been audited and the legal implications have not been explored prior to the publishing of this open source Clarity smart contract. Use at your own risk. 
+Overall, this smart contract enables DAOs to provide loans to startups with the security of collateral and regular repayments, while also allowing DAO members to earn interest on their investment. It is important to note that LoanDAO smart contract has not been audited, the legal implications have not been explored prior to the publishing of this open source Clarity smart contract and the potential tax implications of LoanDAO may carry varying outputs of fiscal responisbility in various jurisdictions around the world. Use at your own risk. 
 
 NoCodeClarity believes in the power of Bitcoin and Stacks so it's important that LoanDAO is open source, especially as a hackathon submission for the [2023 Building on Bitcoin Hackathon](https://building-on-btc-hack.devpost.com/). 
