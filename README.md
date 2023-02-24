@@ -1,4 +1,5 @@
 # LoanDAO
+
 Decentralizing the future of loans. 
 
 In the world of decentralized finance, the ability for startups and projects to access capital required to grow their business is important. Smart contracts, which allow for the automated transfer of funds and the enforcement of pre-defined agreements between parties, are one popular way for organizations to do so. LoanDAO is a Clarity smart contract that allows Decentralized Autonomous Organizations (DAOs) to provide loans to startups that must be repaid in Stacks or Bitcoin (which can be sBTC when live) every 30 days. LoanDAO is an open source glimpse of what is possible with Stacks as we believe that it can be used to power decentralized loans in the future. LoanDAO allows for the following: 
