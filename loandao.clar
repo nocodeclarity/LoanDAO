@@ -1,5 +1,5 @@
 ;; LoanDAO
-;; Cultivated by NoCodeClarity
+;; Cultivated by NoCodeClarity, Inc.
 ;; Dedicated to the dreamers and builders
 
 (define-data-var is-collateralized false)
